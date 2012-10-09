@@ -1,0 +1,14 @@
+{
+  "name" : "socketToProcessing",
+  "version" : "0.0.1",
+  "author" : "Steven Klise",
+  "description" : "Send socket messages from node.js to a Processing app",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies" : {
+    "socket.io" : "latest",
+    "express": "2.5.x"
+  }
+}
