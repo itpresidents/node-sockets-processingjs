@@ -9,6 +9,6 @@
   },
   "dependencies" : {
     "socket.io" : "latest",
-    "express": "2.5.x"
+    "express": "latest"
   }
 }
